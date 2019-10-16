@@ -1,3 +1,17 @@
+/*
+
+  Written by Ben Caunt, Lead Programmer and team captain of FTC 8300 
+  Purpose: Use distance sensor to navigate around obstacles on the solaris test robot 
+  Solaris is an andymark tile runner HD mechanum 
+  Solaris has a 4 motor drive train 
+  Solaris (currently (as of oct 15 2019)) has one distance sensor in the very front
+
+
+  The following autonomous code autonomously navigates around obstacles
+  by using the drive train and the distance sensor 
+
+*/
+
 package org.firstinspires.ftc.teamcode;
 
 import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
